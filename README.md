@@ -63,7 +63,7 @@ Date Due:  August 4, 2020
 # 
 # 
 # OVERVIEW of INSTRUCTIONS
-![Citi-Bikes](Images/citibike_2947.jpg)
+![Citi-Bikes](images/citibike_2947.jpg)
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
@@ -74,7 +74,7 @@ Date Due:  August 4, 2020
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](images/citi-bike-station-bikes.jpg)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -180,7 +180,7 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 # 
-![Citi-Bikes](Images/citi-bike-meet-the-bike-750x732.jpg)
+![Citi-Bikes](images/citi-bike-meet-the-bike-750x732.jpg)
 # 
 
 ### Copyright
